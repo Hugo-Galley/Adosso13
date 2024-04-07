@@ -1,0 +1,7 @@
+func additionner(_ a: Int, _ b: Int) -> Int {
+    return a + b
+}
+
+// Exemples d'utilisation
+print(additionner(4, 12)) // Output: 16
+print(additionner(-3, -2)) // Output: -5
