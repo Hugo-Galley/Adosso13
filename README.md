@@ -30,7 +30,7 @@
 
 ### 📫 Me contacter
 
-- 📧 [LinkedIn](https://www.linkedin.com/in/rahala/)
-- 💼 [abdelghani-dev.fr](https://abdelghani-dev.fr)
+- 📧 [LinkedIn](https://www.linkedin.com/in/ahmed-dosso-72a2b1164/)
+- 💼 [adoverflow.vercel.app](https://adoverflow.vercel.app/)
 
 ---
