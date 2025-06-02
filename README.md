@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  👋 Hello, je suis <strong>Rahal Abdelghani</strong>, développeur web passionné par <em>React.js</em>, <em>TypeScript</em> et l'<strong>expérience utilisateur</strong>.
+  👋 Hello, je suis <strong>Ahmed Dosso</strong>, développeur web passionné par <em>React.js</em>, <em>TypeScript</em> et l'<strong>expérience utilisateur</strong>.
 </p>
 
 ---
 
 ### 🚀 Mon site GitHub Pages
 
-👉 [🔗 Visiter mon site](https://abdelghani-dev.fr)
+👉 [🔗 Visiter mon site](https://adoverflow.vercel.app/)
 
 ---
 
