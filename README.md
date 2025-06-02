@@ -3,12 +3,11 @@
 <h1 align="center">🌐 Bienvenue sur mon Portfolio GitHub Pages</h1>
 
 <p align="center">
-  <img src="/imgAbdelghani.JPG" alt="Rahal Abdelghani" width="150" style="border-radius:50%">
+  <img src="/imgAbdelghani.JPG" alt="Ahmed Dosso" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
-  👋 Hello, je suis <strong>Ahmed Dosso</strong>, développeur web passionné par <em>React.js</em>, <em>TypeScript</em> et l'<strong>expérience utilisateur</strong>.
-</p>
+  👋 Hello, je suis <strong>Ahmed Dosso</strong>, développeur web en devenir qui répondra à l'integralité de vos attentes </p>
 
 ---
 
@@ -20,11 +19,23 @@
 
 ### 🛠️ Stack principale
 
-- React / Next.js
-- TypeScript
-- Tailwind CSS
-- Node.js
-- MongoDB / MySQL
+- Front-end : HTML, CSS, SASS, JavaScript, TypeScript
+
+- Bibliothèques : Bootstrap, Tailwind CSS 
+
+- Backend : Node.js, Express
+
+- Frameworks : React
+
+- Application mobile : Swift
+
+- Base de données : SQL, MongoDB
+
+- Déploiement & DevOps : Docker, CI/CD (GitHub Actions)
+
+- Méthodologies : Merise, Agile (Scrum)
+
+- Versioning : Git (GitHub)
 
 ---
 
