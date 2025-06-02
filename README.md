@@ -3,7 +3,7 @@
 <h1 align="center">🌐 Bienvenue sur mon Portfolio GitHub Pages</h1>
 
 <p align="center">
-  <img src="/imgAbdelghani.JPG" alt="Ahmed Dosso" width="150" style="border-radius:50%">
+  <img src="/Ahmed (3).JPG" alt="Ahmed Dosso" width="150" style="border-radius:50%">
 </p>
 
 <p align="center">
